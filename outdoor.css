@@ -1,0 +1,42 @@
+#access-security ul li {
+	list-style-type: none; /* Убираем маркеры у списка */
+	color: #FEDE00;
+}
+
+#access-security ul li:before {
+	content: "\2713";  /* Добавляем в качестве маркера символ */
+	color: #FEDE00;
+} 
+
+.breadcrumb {
+	font-size: 0.8em;
+}
+
+.tab-pane {
+	padding: 30px;
+	border-bottom: 1px solid #FEDD00;
+}
+
+.tab-pane ul li span {
+	color: #000000;
+}
+
+tab-content>.active {
+	padding: 30px;
+	border-bottom: 10px solid: #FEDD00;
+}
+
+#yellow_menu>.active {
+	border-left: 1px solid #FEDD00;
+	border-top:  1px solid #FEDD00;
+	border-right:  1px solid #FEDD00;
+}
+
+.tab-pane>.active {
+	border-top: 1px solid #000000;
+}
+
+.nav {
+	border-bottom: 1px solid #FEDD00;
+}
+

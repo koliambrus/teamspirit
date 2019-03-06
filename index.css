@@ -1,0 +1,137 @@
+/* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */
+
+.bg-white {
+	background-color: #FFFFFF;
+	box-shadow: 0 1px 5px 0 rgba(0,0,0,0.1);
+	padding: 0 0 10px 0;
+}
+.logo {
+	float: left;
+	margin: 10px 0 0 10px;
+}
+.pull-left {
+	display: flex;
+	list-style-type: none;
+	font-size: 1.5em; float: left;
+	padding: 30px 0 0 0;
+}
+.pull-left a {
+	color: #000000;
+}
+.pull-right {
+	list-style-type: none;
+	text-align: right!important;
+	font-size: 1.5em;
+}
+
+/* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */ /* HEADER */
+/* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */
+
+.bg {
+	background-color: #FFFFFF;
+	box-shadow: 0 3px 10px 5px rgba(0,0,0,0.1);
+	padding: 10px 0;
+}
+
+.active-bottom { 
+	text-decoration: none;
+	text-align: center;
+	border-bottom: 3px solid #FEDD00;
+ 	margin: 0 0 5px 0;
+}
+.active-bottom:hover {
+	text-align: center;
+    border-bottom: 3px solid #3AAA3A;
+    transition-duration: 0.5s;
+    margin: 0 0 5px 0;
+}
+
+.border-bottom:hover {
+	text-align: center;
+    border-bottom: 3px solid #3AAA3A;
+    transition-duration: 0.5s;
+    margin: 0 0 5px 0;
+}
+
+/* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */ /* NAVIGATION */
+/* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ 
+
+.carousel h5 {
+	color: #000000;
+}
+.carousel p {
+	color: #000000;
+}
+
+/* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ /* CAROUSEL */ 
+/* MAIN PART */ /* MAIN PART */ /* MAIN PART */ /* MAIN PART */ /* MAIN PART */ /* MAIN PART */ 
+
+.row {
+	margin: 10px 0px 0px 0px;
+}
+.card a {
+	text-decoration: none;
+	color: #000000;
+}
+.title { 
+	text-decoration: none;
+	text-align: center;
+	border-bottom: 3px solid #FEDD00;
+ 	margin: 0 0 5px 0;
+}
+
+.title:hover {
+	text-align: center;
+    border-bottom: 3px solid #3AAA3A;
+    transition-duration: 0.5s;
+	transition-timing-function: linear;
+}
+.card h6 {
+	text-align: center;
+}
+
+.card a:hover .title{
+    text-align: center;
+    border-bottom: 3px solid #3AAA3A;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+.card-subtitle {
+	text-align: center;
+}
+.border-shadow {
+	width: 17rem;
+	background-color: #FFFFFF;
+	margin: 0 10px 10px 0;
+	padding: 10px 10px 10px 10px;
+	box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2);
+	border-radius: 5px;
+}
+.border-shadow:hover {
+	width: 17rem;
+	background-color: #FFFFFF;
+	margin: 0 10px 10px 0;
+	padding: 10px 10px 10px 10px;
+	box-shadow: 0 5px 15px 0 rgba(0,0,0,0.3);
+	transition-duration: 0.5s;
+	transition-timing-function: ease-in-out;
+	border-radius: 5px;
+}
+.card button {
+	padding: 5px 25px;
+}
+
+
+/* MAIN PART */ /* MAIN PART */ /* MAIN PART */ /* MAIN PART */ /* MAIN PART */ /* MAIN PART */ 
+/* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ 
+
+.footer {
+
+	box-shadow: 0 -3px 5px 3px rgba(0,0,0,0.1);
+	padding: 5px 0;
+}
+.since {
+	margin: 10px 0 0 0;
+}
+
+/* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ 
