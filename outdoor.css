@@ -1,12 +1,22 @@
-#access-security ul li {
+#hs-tech ul li {
 	list-style-type: none; /* Убираем маркеры у списка */
 	color: #FEDE00;
 }
 
-#access-security ul li:before {
+#hs-tech ul li:before {
 	content: "\2713";  /* Добавляем в качестве маркера символ */
 	color: #FEDE00;
-} 
+}
+
+#qqq ul li {
+	list-style-type: none; /* Убираем маркеры у списка */
+	color: #FEDE00;
+}
+
+#qqq ul li:before {
+	content: "\2713";  /* Добавляем в качестве маркера символ */
+	color: #FEDE00;
+}
 
 .breadcrumb {
 	font-size: 0.8em;
@@ -26,7 +36,7 @@ tab-content>.active {
 	border-bottom: 10px solid: #FEDD00;
 }
 
-#yellow_menu>.active {
+#yellow-menu>.active {
 	border-left: 1px solid #FEDD00;
 	border-top:  1px solid #FEDD00;
 	border-right:  1px solid #FEDD00;
@@ -39,4 +49,3 @@ tab-content>.active {
 .nav {
 	border-bottom: 1px solid #FEDD00;
 }
-
